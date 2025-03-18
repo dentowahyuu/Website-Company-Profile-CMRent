@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": " Mona",
+        "star": "⭐⭐⭐⭐⭐",
+        "review": "The service was excellent! The car was clean, comfortable, and perfect for my trip.",
+        "image": "image/ladies.png"
+    },
+    {
+        "id": 2,
+        "name": " Yohan",
+        "star": "⭐⭐⭐⭐⭐",
+        "review": "Booking was fast and hassle-free. Highly recommended for anyone looking for a rental!",
+        "image": "image/man.png"
+    },
+    {
+        "id": 3,
+        "name": " Galuh",
+        "star": "⭐⭐⭐⭐⭐",
+        "review": "Affordable prices with top-quality service. I will definitely rent again!",
+        "image": "image/man.png"
+    },
+    {
+        "id": 4,
+        "name": " Deci",
+        "star": "⭐⭐⭐⭐⭐",
+        "review": "The staff was very friendly, and the car was delivered on time. Great experience!",
+        "image": "image/avatar.png"
+    },
+    {
+        "id": 5,
+        "name": " Yono",
+        "star": "⭐⭐⭐⭐⭐",
+        "review": "Smooth rental process and well-maintained cars. Best rental service I've used so far!",
+        "image": "image/avatar.png"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Innova",
+        "desc": "Spacious family car",
+        "image": "image/Innova.png",
+        "details": {
+            "year": 2022,
+            "engine": "2.4L Diesel",
+            "transmission": "Automatic",
+            "capacity": 7,
+            "price": "Rp. 700.000/day"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Alphard",
+        "desc": "Luxury premium van",
+        "image": "image/Alphard.png",
+        "details": {
+            "year": 2023,
+            "engine": "3.5L V6",
+            "transmission": "Automatic",
+            "capacity": 7,
+            "price": "Rp. 1.500.000/day"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Fortuner",
+        "desc": "Powerful adventure SUV",
+        "image": "image/Fortuner.png",
+        "details": {
+            "year": 2022,
+            "engine": "2.8L Diesel",
+            "transmission": "Automatic",
+            "capacity": 7,
+            "price": "Rp. 1.100.000/day"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Hiace",
+        "desc": "Reliable passenger van",
+        "image": "image/Hiace.png",
+        "details": {
+            "year": 2021,
+            "engine": "2.8L Diesel",
+            "transmission": "Manual",
+            "capacity": 15,
+            "price": "Rp. 1.800.000/day"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Pajero Sport",
+        "desc": "Rugged off-road SUV",
+        "image": "image/Pajero.png",
+        "details": {
+            "year": 2023,
+            "engine": "2.4L Turbo Diesel",
+            "transmission": "Automatic",
+            "capacity": 7,
+            "price": "Rp. 1.100.000/day"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Xpander",
+        "desc": "Compact versatile MPV",
+        "image": "image/Xpander.png",
+        "details": {
+            "year": 2022,
+            "engine": "1.5L Petrol",
+            "transmission": "Automatic",
+            "capacity": 7,
+            "price": "Rp. 500.000/day"
+        }
+    }
+]
